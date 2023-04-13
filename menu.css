@@ -1,0 +1,29 @@
+#menu li{width:180px;
+    float:left;
+text-align:center
+}
+    
+
+
+
+
+#menu{
+width:900px;
+margin:0px;
+padding:0px;
+list-style-type:none;}
+
+#menu li.menu01 a{
+
+color:azure;
+font-size:180%;
+text-decoration:none;
+background:url(image/aaa.jpg);
+display:block;
+
+}
+
+#menu li a:hover{
+background:blueviolet;
+
+}
